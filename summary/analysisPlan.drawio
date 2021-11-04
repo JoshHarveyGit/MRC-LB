@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T11:00:32.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="WAaWNjfwLHp1dirBuw3F" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T16:21:20.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="YDAgFERXDDUKk-4ugaFG" version="15.6.6" type="github">
   <diagram id="WQzuJTd1C2v_Gwr3IN8D" name="Page-1">
     <mxGraphModel dx="4386" dy="2487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2phvOXHi10tVbed8jPcv-275" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=22;fontColor=default;strokeColor=default;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="23" width="760" height="1269" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-272" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=22;fontColor=default;strokeColor=default;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="776" width="690" height="475" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-252" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=22;fontColor=default;strokeColor=default;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="251" width="690" height="490" as="geometry" />
+        </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-167" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=22;fontColor=default;strokeColor=default;fillColor=default;align=left;" vertex="1" parent="1">
-          <mxGeometry x="320" y="10" width="670" height="620" as="geometry" />
+          <mxGeometry x="320" y="10" width="670" height="750" as="geometry" />
         </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-122" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=22;fontColor=default;strokeColor=default;fillColor=default;align=left;" vertex="1" parent="1">
           <mxGeometry x="-310" y="10" width="580" height="1520" as="geometry" />
@@ -76,15 +85,6 @@
             <mxPoint x="-219.71428571428578" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2phvOXHi10tVbed8jPcv-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-15" target="2phvOXHi10tVbed8jPcv-115">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-280" y="1130" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-280" y="84" />
-              <mxPoint x="-280" y="1480" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-15" value="Phenotype file" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-260" y="54" width="80" height="30" as="geometry" />
         </mxCell>
@@ -105,8 +105,8 @@
         <mxCell id="2phvOXHi10tVbed8jPcv-24" value="Extract SNP Genotyping probes" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-120" y="640" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2phvOXHi10tVbed8jPcv-28" value="Plots Generated" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="10" width="160" height="30" as="geometry" />
+        <mxCell id="2phvOXHi10tVbed8jPcv-28" value="Plots Generated" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="17" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-29" value="1." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-260" y="29" width="30" height="30" as="geometry" />
@@ -145,6 +145,9 @@
           <mxGeometry x="-120" y="488" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-49" target="2phvOXHi10tVbed8jPcv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=22;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-49" target="2phvOXHi10tVbed8jPcv-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-49" value="Process phenotype (Make factors numerical)&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
@@ -313,31 +316,48 @@
         <mxCell id="2phvOXHi10tVbed8jPcv-119" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Post- QC&lt;/b&gt;&lt;/div&gt;a. Demographic Table&lt;br&gt;b. Summary Plots" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
           <mxGeometry x="84" y="1452" width="154" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="2phvOXHi10tVbed8jPcv-120" value="Steps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="400" y="10" width="230" height="30" as="geometry" />
+        <mxCell id="2phvOXHi10tVbed8jPcv-120" value="Steps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="17" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2phvOXHi10tVbed8jPcv-121" value="Plots Generated" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="800" y="10" width="160" height="30" as="geometry" />
+        <mxCell id="2phvOXHi10tVbed8jPcv-121" value="Plots Generated" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="800" y="17" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2phvOXHi10tVbed8jPcv-124" value="Steps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-230" y="10" width="160" height="30" as="geometry" />
+        <mxCell id="2phvOXHi10tVbed8jPcv-124" value="Steps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="17" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-125" value="Data Exploration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="240" y="-22" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=22;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-126" target="2phvOXHi10tVbed8jPcv-131">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="130" />
+              <mxPoint x="410" y="243" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=22;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-126" target="2phvOXHi10tVbed8jPcv-150">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="130" />
-              <mxPoint x="400" y="375" />
+              <mxPoint x="390" y="130" />
+              <mxPoint x="390" y="375" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=22;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-126" target="2phvOXHi10tVbed8jPcv-158">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="130" />
+              <mxPoint x="370" y="489" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=22;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-126" target="2phvOXHi10tVbed8jPcv-210">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="685" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-126" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Phenotype file&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. Demographic info&lt;br&gt;&lt;/div&gt;2. Cell Type Proportions&lt;br&gt;3. Batch info" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="345" y="54" width="150" height="76" as="geometry" />
@@ -374,6 +394,9 @@
         <mxCell id="2phvOXHi10tVbed8jPcv-129" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Principle Component Generation&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="535" y="144" width="150" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.772;entryY=0.005;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;labelBackgroundColor=default;fontSize=16;fontColor=default;startArrow=none;startFill=0;strokeColor=#666666;fillColor=#f5f5f5;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-131" target="2phvOXHi10tVbed8jPcv-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-131" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Correlation analysis with first PCs&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="535" y="220" width="150" height="46" as="geometry" />
         </mxCell>
@@ -407,6 +430,11 @@
         <mxCell id="2phvOXHi10tVbed8jPcv-148" value="2." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="776" y="230" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.786;exitY=0.996;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=16;fontColor=default;strokeColor=#666666;fillColor=#f5f5f5;startArrow=none;startFill=0;exitPerimeter=0;dashed=1;dashPattern=1 1;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-150" target="2phvOXHi10tVbed8jPcv-158">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-150" value="Surrogate Variable Analysis&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="540" y="345" width="140" height="60" as="geometry" />
         </mxCell>
@@ -416,14 +444,14 @@
         <mxCell id="2phvOXHi10tVbed8jPcv-153" value="Summary of SVA and Correlation matrices&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
           <mxGeometry x="806" y="317" width="154" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="2phvOXHi10tVbed8jPcv-155" value="If a high level of unexplained variation is present" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="430" y="287" width="230" height="30" as="geometry" />
+        <mxCell id="2phvOXHi10tVbed8jPcv-155" value="If a high level of unexplained variation is present" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="460" y="287" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-156" value="3." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="540" y="317" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2phvOXHi10tVbed8jPcv-157" value="Alternatively:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="435" y="413" width="230" height="30" as="geometry" />
+        <mxCell id="2phvOXHi10tVbed8jPcv-157" value="Alternatively:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="493" y="413" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;fontSize=22;fontColor=default;strokeColor=default;fillColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-158" target="2phvOXHi10tVbed8jPcv-166">
           <mxGeometry relative="1" as="geometry">
@@ -444,6 +472,186 @@
         </mxCell>
         <mxCell id="2phvOXHi10tVbed8jPcv-166" value="Extract residuals of regression&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="545" y="546" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-210" value="Cell type proportion analysis- lm / ANOVA against:&lt;br&gt;&lt;br&gt;1. Neuropathology Score&lt;br&gt;2. Clinical diagnosis&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="380" y="630" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-212" value="a. Statistical summaries&lt;br&gt;&lt;br&gt;b. Neuropathology scatterplots&lt;br&gt;&lt;br&gt;c. Groupwise jitter/boxplots OR&lt;br&gt;stacked bars&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="806" y="605" width="154" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-213" value="5." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="387" y="600" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-214" value="5." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="776" y="655" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-216" value="Epigenome Wide Association Analysis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;fontSize=22;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-10" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-217" value="Steps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1184.5" y="29.379999999999995" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-218" value="Plots Generated" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1584.5" y="29.379999999999995" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;fontSize=16;fontColor=default;strokeColor=default;fillColor=default;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-219" target="2phvOXHi10tVbed8jPcv-226">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1161.666666666667" y="332.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-219" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Phenotype file&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Covariates:&lt;/div&gt;&lt;div&gt;1. Demographic info&lt;br&gt;&lt;/div&gt;2. Surrogate Variables&lt;br&gt;3. Cell Type Information&lt;br&gt;&lt;br&gt;Independent test variables:&lt;br&gt;1. Pathology measures&lt;br&gt;2. Clinical groups&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1121.5" y="64.38" width="166" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;fontSize=16;fontColor=default;strokeColor=default;fillColor=default;entryX=0.939;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-220" target="2phvOXHi10tVbed8jPcv-232">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1431.5" y="532.38" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1434" y="127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-220" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Nomalised Beta Matrix&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1319.5" y="81.38" width="150" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-221" value="qqplots&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="1584.5" y="553.88" width="175" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-223" value="Hypothesis 1. Neuropathology" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1164.5" y="262.38" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;labelBackgroundColor=default;fontSize=16;fontColor=default;startArrow=none;startFill=0;strokeColor=default;fillColor=default;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-226" target="2phvOXHi10tVbed8jPcv-227">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-226" value="&lt;b&gt;Optional: Only retain subset of NFT Free Cases / Parkinsonian cases&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="302.38" width="170" height="60.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.355;exitY=1.036;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=16;fontColor=default;startArrow=none;startFill=0;strokeColor=default;fillColor=default;exitPerimeter=0;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-227" target="2phvOXHi10tVbed8jPcv-232">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1179.5" y="514.38" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-227" value="&lt;b&gt;Control for coincidence NFT pathology as covariate&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="405.38" width="170" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-231" value="AND/OR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="368.88" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;fontSize=16;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;fillColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-232" target="2phvOXHi10tVbed8jPcv-235">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1323.8809523809523" y="592.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-232" value="&lt;span style=&quot;font-weight: normal&quot;&gt;beta ~ BraakLBNumeric + Age + Sex + CellType.....&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1199" y="494.62" width="250" height="41.38" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.897;entryY=1.093;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=16;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=2;fillColor=default;elbow=vertical;curved=1;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-235" target="2phvOXHi10tVbed8jPcv-232">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1389.5" y="602.38" />
+              <mxPoint x="1448.5" y="602.38" />
+              <mxPoint x="1448.5" y="572.38" />
+              <mxPoint x="1423.5" y="572.38" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-238" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;fontSize=16;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;fillColor=default;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-235" target="2phvOXHi10tVbed8jPcv-239">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1324.5" y="662.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-235" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Inspect inflation: &lt;br&gt;lamda / qqplot&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1259" y="575.38" width="130" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-237" value="If inflated: &lt;br&gt;Test additional covariates" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="616.25" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-239" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Multiple testing correction: FDR, Bonferroni, 9 x 10^-8&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1259" y="651.63" width="130" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-243" value="1." style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1259.5" y="545.38" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-244" value="2." style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1259" y="622.38" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-245" value="1." style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1554.5" y="561.88" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-247" value="a. Manhattan Plot&lt;br&gt;b. Significant Results Table&lt;br&gt;c. Individual cpg plots (violin/jitter)&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="1584.5" y="651.38" width="175" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-248" value="2." style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1554.5" y="659.38" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-251" value="Epigenome Wide Association Analysis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="-20" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-255" value="qqplots&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="1584.5" y="928.25" width="175" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-267" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=16;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;fillColor=default;elbow=vertical;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-258" target="2phvOXHi10tVbed8jPcv-259">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-258" value="&lt;span style=&quot;font-weight: normal&quot;&gt;beta ~ Clinical Group + BraakLB + BraakNFT + Age + Sex + CellType.....&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1199" y="869.75" width="250" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-271" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=16;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;fillColor=default;elbow=vertical;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-259" target="2phvOXHi10tVbed8jPcv-261">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-259" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Inspect inflation: &lt;br&gt;lamda / qqplot&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1259.5" y="927" width="130" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-260" value="If inflated: &lt;br&gt;Test additional covariates" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="981" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-274" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=16;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;fillColor=default;elbow=vertical;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-261" target="2phvOXHi10tVbed8jPcv-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-261" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Tukey-HSD&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1259.5" y="1039" width="130" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-262" value="1." style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1554.5" y="936.25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-263" value="a. Manhattan Plot&lt;br&gt;b. Significant Results Table&lt;br&gt;c. Individual cpg plots (violin/jitter)&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="1584.5" y="1025.75" width="175" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-264" value="2." style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1554.5" y="1033.75" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-266" value="Hypothesis 2. Clinical" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1169.5" y="788" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.999;exitY=0.595;exitDx=0;exitDy=0;entryX=0.9;entryY=0.989;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=16;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=2;fillColor=default;elbow=vertical;curved=1;entryPerimeter=0;dashed=1;exitPerimeter=0;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-259" target="2phvOXHi10tVbed8jPcv-258">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1389.5" y="964.81" as="sourcePoint" />
+            <mxPoint x="1423.7500000000005" y="906.751" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1389" y="972" />
+              <mxPoint x="1410" y="972" />
+              <mxPoint x="1410" y="973" />
+              <mxPoint x="1449" y="973" />
+              <mxPoint x="1449" y="943" />
+              <mxPoint x="1424" y="943" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-269" value="Linear Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="465" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-270" value="ANOVA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1119.5" y="841" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=16;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;strokeWidth=1;fillColor=default;elbow=vertical;" edge="1" parent="1" source="2phvOXHi10tVbed8jPcv-273" target="2phvOXHi10tVbed8jPcv-279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-273" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Multiple testing correction: FDR, Bonferroni, 9 x 10^-8&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1259" y="1096.75" width="130" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="2phvOXHi10tVbed8jPcv-279" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Check potential outlier effects of NFT burdened cases&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1171" width="130" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
