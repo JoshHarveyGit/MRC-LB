@@ -1,5 +1,5 @@
 **Quality Control**
-- [ ]  Generate Raw mSet File
+- [x]  Generate Raw mSet File
 
 
 **Data Exploration**
