@@ -17,13 +17,13 @@
 **Data Exploration**
 - [x] Principal Component generation
 - [x] PC correlation assessment with known potential sources of variation
-   #If significant confounding effects apparent 
+   If significant confounding effects apparent 
 - [x] ComBat batch correction
 
 
 
 **Epigenome Wide Association Analysis**
-
+*Neuropathology Hypothesis 1: 
 
 **Differentially Methylated Region Analysis**
 
