@@ -23,7 +23,7 @@
 
 
 **Epigenome Wide Association Analysis**
-*Neuropathology Hypothesis 1:*
+    ***Neuropathology Hypothesis 1:***
 
 **Differentially Methylated Region Analysis**
 
