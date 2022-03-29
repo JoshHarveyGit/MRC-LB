@@ -24,7 +24,7 @@
 
 **Epigenome Wide Association Analysis**
 
-*Neuropathology Hypothesis 1: There are associated methylation signature common across all lewy body positive cases*
+### Neuropathology Hypothesis 1: There are associated methylation signature common across all lewy body positive cases
 
 -[ ] Outcome - Binary disease status, controls vs. all LB - positive cases
 -[ ] Linear mixed model 
