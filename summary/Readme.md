@@ -12,7 +12,9 @@
 - [x]  Dasen normalisation
   - [x]  Normalise all together
   - [x]  Normalise CNG and PFC regions seperately
+- [ ] Remove cross-hybridising and snp overlapping probes
 - [ ] Flow diagram of sample retention
+
 
 ### Data Exploration
 - [x] Principal Component generation
